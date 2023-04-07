@@ -1,6 +1,8 @@
 ## Oiii eu sou a João Victor, estudante de programação e tecnologia!
 
 
+![Joao Status](https://github-readme-stats.vercel.app/api?username=JoaoSantosVenancio&count_private=true&&show_icons=true&theme=radical)
+![Joao Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosVenancio&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +13,7 @@
    <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"><-!-->
 </div>
   
-  ##
+  #
  
 <div> 
   
