@@ -2,7 +2,6 @@
 
 
 ![Joao Status](https://github-readme-stats.vercel.app/api?username=JoaoSantosVenancio&count_private=true&&show_icons=true&theme=radical)
-![Joao Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosVenancio&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
