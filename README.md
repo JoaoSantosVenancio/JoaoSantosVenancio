@@ -9,6 +9,9 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-Java" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
+  <img align="center" alt="Joao-MySql" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png">
+  <img align="center" alt="Joao-C" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png">
    <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"><-!-->
 </div>
   
