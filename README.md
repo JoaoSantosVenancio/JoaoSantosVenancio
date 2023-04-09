@@ -1,4 +1,4 @@
-## Oiii eu sou a João Victor, estudante de programação e tecnologia!
+## Olá eu sou o João Victor, estudante de programação e tecnologia!
 
 
 ![Joao Status](https://github-readme-stats.vercel.app/api?username=JoaoSantosVenancio&count_private=true&&show_icons=true&theme=radical)
