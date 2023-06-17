@@ -1,8 +1,13 @@
 ## Olá eu sou o João Victor, estudante de programação e tecnologia!
+- 📜 Studying Java, C# and Javascript
+- 📮 Contact me: jv29645@gmail.com
 
-
-![Joao Status](https://github-readme-stats.vercel.app/api?username=JoaoSantosVenancio&count_private=true&&show_icons=true&theme=radical)
-
+<div align="center">
+  <a href="https://github.com/JoaoSantosVenancio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSantosVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantosVenancio&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
