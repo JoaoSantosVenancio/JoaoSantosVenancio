@@ -1,5 +1,5 @@
 ## Olá eu sou o João Victor, estudante de programação e tecnologia!
-- 📜 Studying Java, C# and Javascript
+- 📜 Studying Java, C#, Node.js and Javascript
 - 📮 Contact me: jv29645@gmail.com
 
 <div align="center">
@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-NODE" height="30" width="40" src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
